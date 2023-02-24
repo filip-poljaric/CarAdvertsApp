@@ -1,5 +1,4 @@
 
-This is car adverts app.
 Hi! This is car adverts app. With this app you can make a car advert.
 
 To make this application work, follow a few simple steps.
