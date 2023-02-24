@@ -7,7 +7,7 @@ First download the app from my github account: https://github.com/filip-poljaric
 
 Open the CarAdvertApp folder in a code editor.
 
-Under resources folder in application.yml file you need to provide a valid uri:(valid URI), to connect with your database. You can get your mongoDB URI on: https://account.mongodb.com/account/login.
+Under resources folder in application.yml file you need to provide a valid mongoDB uri:(valid URI), to connect with your database. You can get your mongoDB URI on: https://account.mongodb.com/account/login.
 
 When you provide a valid mongoDB URI save the changes, and run the app.
 
